@@ -50,10 +50,5 @@ Input: Blog article about “AI in Healthcare”
 Output:  
 > “AI is revolutionizing healthcare by improving diagnosis speed and accuracy. Here’s how technology is shaping the future of medicine. 🧬💡”
 
-## 👨‍💻 Author
-**Bhavanam Indra Kiran Reddy**  
-GitHub: [indrakiran7b](https://github.com/indrakiran7b)  
-LinkedIn: [linkedin.com/in/indrakiran7b](https://linkedin.com/in/indrakiran7b)
-
 ## 📄 License
 This project is open source under the MIT License.
